@@ -1,2 +1,3 @@
 # taskList
-![image](https://github.com/gabrielmillerr/taskList/assets/101687303/37617d0c-da08-472b-85d2-7744f5055f7f)
+![image](https://github.com/gabrielmillerr/taskList/assets/101687303/868069fa-a7d0-4f2b-b8bf-d1f1c475347a)
+
